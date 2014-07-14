@@ -1,0 +1,8 @@
+{
+  "name": "native-platforms",
+  "version": "0.0.1",
+  "description": "Native platforms supported by Auth0's service",
+  "scripts": [ ],
+  "json": [ "index.json" ],
+  "main": "index.json"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "auth0-native-platforms",
+  "version": "0.0.1",
+  "description": "Native platforms supported by Auth0's service",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:auth0/native-platforms.git"
+  },
+  "keywords": [
+    "auth0",
+    "native",
+    "mobile",
+    "hybrid"
+  ],
+  "author": "Auth0, Inc. <hello@auth0.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/native-platforms/issues"
+  },
+  "homepage": "https://github.com/auth0/native-platforms"
+}
