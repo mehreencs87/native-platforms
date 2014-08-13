@@ -28,9 +28,16 @@
     "image": "//auth0.com/platforms-collection/img/xamarin.png"
   },
   {
-    "title": "PhoneGap",
+    "title": "Cordova",
+    "name": "cordova",
+    "url": "/new/native-platforms/cordova",
+    "hybrid": true,
+    "image": "//auth0.com/platforms-collection/img/phonegap.png"
+  },
+  {
+    "title": "Phonegap",
     "name": "phonegap",
-    "url": "/phonegap-tutorial",
+    "url": "/new/native-platforms/cordova",
     "hybrid": true,
     "image": "//auth0.com/platforms-collection/img/phonegap.png"
   },
