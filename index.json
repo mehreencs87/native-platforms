@@ -37,7 +37,7 @@
   {
     "title": "Phonegap",
     "name": "phonegap",
-    "url": "/new/native-platforms/cordova",
+    "url": "/new/native-platforms/phonegap",
     "hybrid": true,
     "image": "//auth0.com/platforms-collection/img/phonegap.png"
   },
