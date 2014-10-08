@@ -1,8 +1,15 @@
 [
   {
-    "title": "iOS",
-    "name": "ios",
-    "url": "/ios-tutorial",
+    "title": "iOS - Objective C",
+    "name": "ios-objc",
+    "url": "/native-platforms/ios-objc",
+    "hybrid": false,
+    "image": "//auth0.com/platforms-collection/img/ios.png"
+  },
+  {
+    "title": "iOS - Swift",
+    "name": "ios-swift",
+    "url": "/native-platforms/ios-swift",
     "hybrid": false,
     "image": "//auth0.com/platforms-collection/img/ios.png"
   },
@@ -30,21 +37,21 @@
   {
     "title": "Cordova",
     "name": "cordova",
-    "url": "/new/native-platforms/cordova",
+    "url": "/native-platforms/cordova",
     "hybrid": true,
     "image": "//auth0.com/platforms-collection/img/phonegap.png"
   },
   {
     "title": "Phonegap",
     "name": "phonegap",
-    "url": "/new/native-platforms/phonegap",
+    "url": "/native-platforms/phonegap",
     "hybrid": true,
     "image": "//auth0.com/platforms-collection/img/phonegap.png"
   },
   {
     "title": "Ionic",
     "name": "ionic",
-    "url": "/new/native-platforms/ionic",
+    "url": "/native-platforms/ionic",
     "hybrid": true,
     "image": "//auth0.com/platforms-collection/img/phonegap.png"
   },
