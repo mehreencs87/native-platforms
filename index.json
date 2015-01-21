@@ -16,7 +16,7 @@
   {
     "title": "Android",
     "name": "android",
-    "url": "/android-tutorial",
+    "url": "/native-platforms/android",
     "hybrid": false,
     "image": "//auth0.com/platforms-collection/img/android.png"
   },
