@@ -5,7 +5,7 @@
     "index.json"
   ],
   "main": "index.json",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "homepage": "https://github.com/auth0/native-platforms",
   "authors": [
     "Auth0, Inc. <hello@auth0.com>"
