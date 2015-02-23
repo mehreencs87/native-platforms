@@ -4,76 +4,76 @@
     "name": "ios-objc",
     "url": "/native-platforms/ios-objc",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/ios.png"
+    "image": "//auth0.com/lib/platforms-collection/img/ios.png"
   },
   {
     "title": "iOS - Swift",
     "name": "ios-swift",
     "url": "/native-platforms/ios-swift",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/ios.png"
+    "image": "//auth0.com/lib/platforms-collection/img/ios.png"
   },
   {
     "title": "Android",
     "name": "android",
     "url": "/native-platforms/android",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/android.png"
+    "image": "//auth0.com/lib/platforms-collection/img/android.png"
   },
   {
     "title": "Windows Phone",
     "name": "windowsphone",
     "url": "/windowsphone-tutorial",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/windows-phone.png"
+    "image": "//auth0.com/lib/platforms-collection/img/windows-phone.png"
   },
   {
     "title": "Xamarin",
     "name": "xamarin",
     "url": "/xamarin-tutorial",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/xamarin.png"
+    "image": "//auth0.com/lib/platforms-collection/img/xamarin.png"
   },
   {
     "title": "Cordova",
     "name": "cordova",
     "url": "/native-platforms/cordova",
     "hybrid": true,
-    "image": "//auth0.com/platforms-collection/img/phonegap.png"
+    "image": "//auth0.com/lib/platforms-collection/img/phonegap.png"
   },
   {
     "title": "Phonegap",
     "name": "phonegap",
     "url": "/native-platforms/phonegap",
     "hybrid": true,
-    "image": "//auth0.com/platforms-collection/img/phonegap.png"
+    "image": "//auth0.com/lib/platforms-collection/img/phonegap.png"
   },
   {
     "title": "Ionic",
     "name": "ionic",
     "url": "/native-platforms/ionic",
     "hybrid": true,
-    "image": "//auth0.com/platforms-collection/img/phonegap.png"
+    "image": "//auth0.com/lib/platforms-collection/img/phonegap.png"
   },
   {
     "title": "Windows 8 (JS)",
     "name": "windows8",
     "url": "/win8-tutorial",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/windows-8.png"
+    "image": "//auth0.com/lib/platforms-collection/img/windows-8.png"
   },
   {
     "title": "Windows 8 (C#)",
     "name": "windows8-cp",
     "url": "/win8-cs-tutorial",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/windows-8.png"
+    "image": "//auth0.com/lib/platforms-collection/img/windows-8.png"
   },
   {
     "title": "WPF / Winforms",
     "name": "wpf-winforms",
     "url": "/wpf-winforms-tutorial",
     "hybrid": false,
-    "image": "//auth0.com/platforms-collection/img/asp.png"
+    "image": "//auth0.com/lib/platforms-collection/img/asp.png"
   }
 ]
