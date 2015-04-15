@@ -1,4 +1,13 @@
 
+0.2.1 / 2015-04-15
+==================
+
+  * Include React Native tutorial.
+  * Release 0.2.0
+  * Update resources urls
+  * Release 0.1.5
+  * Added Android tutorial
+
 0.2.0 / 2015-02-23
 ==================
 
