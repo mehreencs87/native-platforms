@@ -14,6 +14,13 @@
     "image": "//auth0.com/lib/platforms-collection/img/ios.png"
   },
   {
+    "title": "iOS - React Native",
+    "name": "ios-react-native",
+    "url": "/native-platforms/ios-reactnative",
+    "hybrid": true,
+    "image": "//auth0.com/lib/platforms-collection/img/react.png"
+  },
+  {
     "title": "Android",
     "name": "android",
     "url": "/native-platforms/android",
