@@ -1,4 +1,10 @@
 
+0.2.2 / 2015-05-27
+==================
+
+  * Updated Windows Store and WPF Urls
+  * Update Readme.md
+
 0.2.1 / 2015-04-15
 ==================
 
