@@ -30,14 +30,14 @@
   {
     "title": "Windows Phone",
     "name": "windowsphone",
-    "url": "/windowsphone-tutorial",
+    "url": "/native-platforms/windowsphone",
     "hybrid": false,
     "image": "//auth0.com/lib/platforms-collection/img/windows-phone.png"
   },
   {
     "title": "Xamarin",
     "name": "xamarin",
-    "url": "/xamarin-tutorial",
+    "url": "/native-platforms/xamarin",
     "hybrid": false,
     "image": "//auth0.com/lib/platforms-collection/img/xamarin.png"
   },
@@ -63,23 +63,23 @@
     "image": "//auth0.com/lib/platforms-collection/img/phonegap.png"
   },
   {
-    "title": "Windows 8 (JS)",
-    "name": "windows8",
-    "url": "/win8-tutorial",
+    "title": "Windows Store (JS)",
+    "name": "windows-store-javascript",
+    "url": "/native-platforms/windows-store-javascript",
     "hybrid": false,
     "image": "//auth0.com/lib/platforms-collection/img/windows-8.png"
   },
   {
-    "title": "Windows 8 (C#)",
-    "name": "windows8-cp",
-    "url": "/win8-cs-tutorial",
+    "title": "Windows Store (C#)",
+    "name": "windows-store-csharp",
+    "url": "/native-platforms/windows-store-csharp",
     "hybrid": false,
     "image": "//auth0.com/lib/platforms-collection/img/windows-8.png"
   },
   {
     "title": "WPF / Winforms",
     "name": "wpf-winforms",
-    "url": "/wpf-winforms-tutorial",
+    "url": "/native-platforms/wpf-winforms",
     "hybrid": false,
     "image": "//auth0.com/lib/platforms-collection/img/asp.png"
   }
